@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casusry
-- 👀 I’m interested in web dev, Ai, cars
+- 👀 I’m interested in web dev, ai, cars
 - 🌱 I’m currently learning asp.net & React 
 - 💞️ I’m looking to collaborate on web Development
 - 📫 How to reach me cassidyusryccu@gmail.com
